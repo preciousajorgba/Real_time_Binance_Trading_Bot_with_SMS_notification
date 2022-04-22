@@ -29,9 +29,9 @@ USE IT AT YOUR OWN RISK!
 
 5. It closes the position fully when K < D or the last candle is on a downtrend.
 
-6.Whenever it take an action, an SMS notification is sent to your phone.
+  6.Whenever it take an action, an SMS notification is sent to your phone.
 
-7.The idea is to make some profit daily and accummulating over time.
+  7.The idea is to make some profit daily and accummulating over time.
 
 8. It's more profitable in higher time-frames like 4h,1d etc
 
